@@ -12,7 +12,7 @@ export default function (app: Application): void {
       freezeTableName: true
     }
     ,dialectOptions:{
-      ssl: false
+      ssl: true
     }
     
   });
