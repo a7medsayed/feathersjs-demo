@@ -63,6 +63,7 @@
     "sequelize": "^6.17.0",
     "serve-favicon": "^2.5.0",
     "shx": "^0.3.4",
+    "tsc": "^2.0.4",
     "winston": "^3.6.0"
   },
   "devDependencies": {
