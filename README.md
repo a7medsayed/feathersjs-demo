@@ -6,6 +6,22 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
+## app Features
+```bash
+1- create user (sign up).
+2- authenticate user (login).
+3- upload user contacts.
+4- list user contacts.
+5- update , remove contact.
+```
+
+## core functions
+```bash
+1- services (users , contacts).
+2- hooks (e.g standardizeMobileNumber).
+3- on to many relationship (between user and contacts).
+```
+
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
@@ -18,12 +34,17 @@ Getting up and running is as easy as 1, 2, 3.
     npm install
     ```
 
-3. Start your app
+3.create databse on postgresSql
+4.change connection string in default.json ("postgres") to your local database connection string
+
+5. Start your app
 
     ```
     npm start
     ```
+6. navigate to http://localhost:3030/
 
+7.import this file to postman  ![Alt text](./app.ts?raw=true "Api Documentation")
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
