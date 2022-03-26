@@ -10,7 +10,7 @@ export default function (app: Application): void {
     define: {
       freezeTableName: true
     },
-    ssl: true,
+    ssl: false,
     pool: {
     max: 10,
       min: 0,
