@@ -24,11 +24,11 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 ## Getting Started
 
-# heroku:
+### heroku:
 - https://sleepy-plains-43760.herokuapp.com
-- 
 
-# local:
+
+### local:
 
 Getting up and running is as easy as 1, 2, 3.
 
