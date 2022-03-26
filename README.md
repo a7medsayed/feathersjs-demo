@@ -6,6 +6,16 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
+## Project Structure and DataBase
+
+```bash
+1- Services (Users , Contacts).
+2- Hooks (e.g standardizeMobileNumber...).
+1- Database adapter (sequlize).
+2- Database (postgresSql).
+
+```
+
 ## Features
 ```bash
 • User
@@ -17,6 +27,8 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 2- List User Contacts.
 3- Update , Remove Contact.
 ```
+
+
 
 
 ## Postman Api Documentation
