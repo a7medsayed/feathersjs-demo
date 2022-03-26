@@ -8,11 +8,11 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 ## Features
 ```bash
-1- create user (sign up).
-2- authenticate user (login).
-3- upload user contacts.
-4- list user contacts.
-5- update , remove contact.
+1- Create User (Sign Up).
+2- Authenticate User (Login).
+3- Upload User Contacts.
+4- List User Contacts.
+5- Update , Remove Contact.
 ```
 
 
@@ -34,24 +34,24 @@ Getting up and running is as easy as 1, 2, 3.
     npm install
     ```
 
-3.create databse on postgresSql
-4.change connection string in default.json ("postgres") to your local database connection string
+3.Create databse on postgresSql
+4.Change connection string in default.json ("postgres") to your local database connection string
 
 5. Start your app
 
     ```
     npm start
     ```
-6. navigate to http://localhost:3030/
+6. Navigate to http://localhost:3030/
 
 
 
 
 ## Postman Api Documentation
 
-7.download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
+7.Download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
 
-8.import it to postman collection.
+8.Import it to postman collection.
 
 
 ## Testing
