@@ -44,7 +44,7 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 6. navigate to http://localhost:3030/
 
-7.import this file to postman  ![Alt text](./procfile?raw=true "Api Documentation")
+7.import this file to postman  ![Alt text](./Feathersjs Demo - API Documention.postman_collection.json "Api Documentation")
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
