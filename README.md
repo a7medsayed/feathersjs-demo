@@ -8,11 +8,13 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 ## Features
 ```bash
+#### User
 1- Create User (Sign Up).
 2- Authenticate User (Login).
-3- Upload User Contacts.
-4- List User Contacts.
-5- Update , Remove Contact.
+#### Contacts
+1- Upload User Contacts.
+2- List User Contacts.
+3- Update , Remove Contact.
 ```
 
 
