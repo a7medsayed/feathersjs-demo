@@ -10,9 +10,11 @@ export default function (app: Application): void {
     logging: false,
     define: {
       freezeTableName: true
-    }
-    ,dialectOptions:{
-      ssl: true
+    },
+    dialectOptions: {
+      ssl: {
+        rejectUnauthorized: false, // very important
+      }
     }
     
   });
