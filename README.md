@@ -6,7 +6,7 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
-## app Features
+## Features
 ```bash
 1- create user (sign up).
 2- authenticate user (login).
@@ -15,12 +15,6 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 5- update , remove contact.
 ```
 
-## core functions
-```bash
-1- services (users , contacts).
-2- hooks (e.g standardizeMobileNumber).
-3- on to many relationship (between user and contacts).
-```
 
 ## Getting Started
 
