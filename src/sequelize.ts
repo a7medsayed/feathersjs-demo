@@ -10,11 +10,13 @@ export default function (app: Application): void {
     logging: false,
     define: {
       freezeTableName: true
-    },
-    ssl: true
-    
+    }
+    ,dialectOptions:{
+      ssl: true
+    }
     
   });
+
   const oldSetup = app.setup;
 
   app.set('sequelizeClient', sequelize);
