@@ -1,6 +1,6 @@
 {
-  "host": "proccess.env.HOST",
-  "port": "proccess.env.PORT" ,
+  "host": "https://sleepy-plains-43760.herokuapp.com/",
+  "port": "PORT" ,
    "public": "../public/",
   "paginate": {
     "default": 10,
