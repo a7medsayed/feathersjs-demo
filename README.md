@@ -24,6 +24,8 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 ## Getting Started
 
+#local
+
 Getting up and running is as easy as 1, 2, 3.
 
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
@@ -44,7 +46,15 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 6. navigate to http://localhost:3030/
 
-7.import this file to postman  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing
+#heroku
+- https://sleepy-plains-43760.herokuapp.com
+
+
+## Postman Collection
+7.download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing
+8.import it to postman collection
+
+
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
