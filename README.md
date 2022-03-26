@@ -44,7 +44,7 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 6. navigate to http://localhost:3030/
 
-7.import this file to postman  ![Alt text](https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing "Title")
+7.import this file to postman  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
