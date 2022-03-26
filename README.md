@@ -53,7 +53,7 @@ Getting up and running is as easy as 1, 2, 3.
 
 
 
-## Postman Collection
+## Postman Api Documentation
 
 7.download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
 
