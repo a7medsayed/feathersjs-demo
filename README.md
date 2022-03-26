@@ -44,7 +44,7 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 6. navigate to http://localhost:3030/
 
-7.import this file to postman  ![Alt text](./Demo - API Documention.postman_collection.json?raw=true)
+7.import this file to postman  ![Alt text](./Demo - API Documention.postman_collection.json?raw=true "Title")
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
