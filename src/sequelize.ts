@@ -5,17 +5,15 @@ export default function (app: Application): void {
   const connectionString = app.get('postgres');
   console.log(app.get('postgres'))
   const sequelize = new Sequelize(connectionString, {
+    
     dialect: 'postgres',
     logging: false,
     define: {
       freezeTableName: true
     },
-    ssl: false,
-    pool: {
-    max: 10,
-      min: 0,
-      idle: 10000
-  }
+    ssl: true
+    
+    
   });
   const oldSetup = app.setup;
 
