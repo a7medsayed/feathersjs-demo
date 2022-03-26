@@ -28,7 +28,7 @@
       "passwordField": "password"
     }
   },
-  "postgres": "proccess.env.DATABASE_URL"
+  "postgres": "DATABASE_URL"
 }
 
 
