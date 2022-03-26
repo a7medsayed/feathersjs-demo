@@ -16,6 +16,12 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 ```
 
 
+## Postman Api Documentation
+
+7.Download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
+
+8.Import it to postman collection.
+
 ## Getting Started
 
 ### heroku:
@@ -46,12 +52,6 @@ Getting up and running is as easy as 1, 2, 3.
 
 
 
-
-## Postman Api Documentation
-
-7.Download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
-
-8.Import it to postman collection.
 
 
 ## Testing
