@@ -35,7 +35,7 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 7.Download this file  https://drive.google.com/file/d/1kpqVa0gVaj249tx5hz-7GBQanaF3QNLs/view?usp=sharing.
 
-8.Import it to postman collection.
+8.Import it to Postman Collection.
 
 ## Getting Started
 
