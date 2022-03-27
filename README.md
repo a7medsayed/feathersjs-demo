@@ -11,8 +11,8 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 ```bash
 1- Services (Users , Contacts).
 2- Hooks (e.g standardizeMobileNumber...).
-1- Database adapter (sequlize).
-2- Database (postgresSql).
+1- Database adapter (Sequlize).
+2- Database (PostgreSql).
 
 ```
 
